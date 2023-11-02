@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-transform: capitalize;
+}
+
+.container{
+    background:linear-gradient(135deg, #1fb46f,#209e3f);
+    min-height: 100vh;
+    width: 100%;
+    padding: 10px;
+}
+
+.password-app{
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 60px;
+    /* background: #28f1a4; */
+}
+
+.display{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.copy{
+    width: 30px;
+    cursor: pointer;
+}
+
+input{
+    outline: 0;
+    border: 0;
+    font-size: 20px;
+}
+
+button img{
+    width: 28px;
+    margin-right: 10px;
+}
+
+button{
+    border: 0;
+    outline: 0;
+    background: #1e43a8;
+    color: azure;
+    display: flex;
+    font-size: 22px;
+    font-weight: 300;
+    align-items: center;
+    justify-content: center;
+    padding: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
